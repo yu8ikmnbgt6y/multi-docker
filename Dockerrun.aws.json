@@ -10,7 +10,7 @@
         },
         {
             "name": "server",
-            "iamge": "sc102008/multi-server",
+            "image": "sc102008/multi-server",
             "hostname": "api",
             "essential": false,
             "memory": 128
